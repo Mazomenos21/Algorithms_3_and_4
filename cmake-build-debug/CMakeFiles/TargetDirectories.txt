@@ -1,0 +1,3 @@
+/home/mazomenos21/Documentos/Cursos/algorithms_3_and_4/cmake-build-debug/CMakeFiles/algorithms_3_and_4.dir
+/home/mazomenos21/Documentos/Cursos/algorithms_3_and_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mazomenos21/Documentos/Cursos/algorithms_3_and_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
